@@ -1,0 +1,7 @@
+C:\Users\KB\Desktop\061121\carRentMgr0611\carRentMgr0611\bin\Debug\carRentMgr0611.exe.config
+C:\Users\KB\Desktop\061121\carRentMgr0611\carRentMgr0611\bin\Debug\carRentMgr0611.exe
+C:\Users\KB\Desktop\061121\carRentMgr0611\carRentMgr0611\bin\Debug\carRentMgr0611.pdb
+C:\Users\KB\Desktop\061121\carRentMgr0611\carRentMgr0611\obj\Debug\carCenterMgr0611.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\061121\carRentMgr0611\carRentMgr0611\obj\Debug\carCenterMgr0611.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\061121\carRentMgr0611\carRentMgr0611\obj\Debug\carRentMgr0611.exe
+C:\Users\KB\Desktop\061121\carRentMgr0611\carRentMgr0611\obj\Debug\carRentMgr0611.pdb
