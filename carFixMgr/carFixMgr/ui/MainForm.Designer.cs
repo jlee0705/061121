@@ -61,6 +61,7 @@ namespace carFixMgr
             this.custfixAdd.TabIndex = 1;
             this.custfixAdd.Text = "고객정보 접수";
             this.custfixAdd.TextColor = System.Drawing.Color.White;
+            this.custfixAdd.Click += new System.EventHandler(this.custfixAdd_Click_1);
             // 
             // custfixView
             // 

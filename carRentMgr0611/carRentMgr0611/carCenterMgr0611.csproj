@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CxFlatUI, Version=1.0.0.4, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CxFlatUI.1.0.0.4\lib\net45\CxFlatUI.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -59,10 +62,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="common\" />
     <Folder Include="handler\lib\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ReadMePng\APIKeys.png" />
+    <Content Include="ReadMePng\Deploy.png" />
+    <Content Include="ReadMePng\MetaData.png" />
+    <Content Include="ReadMePng\Nuget.png" />
+    <Content Include="ReadMePng\NugetAPIKeys.png" />
+    <Content Include="ReadMePng\NuPackNugetPackager.png" />
+    <Content Include="ReadMePng\Options.png" />
+    <Content Include="ReadMePng\类库上右键.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

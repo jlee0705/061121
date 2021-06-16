@@ -1,4 +1,6 @@
-﻿using MaterialSkin.Controls;
+﻿using carFixMgr.model;
+using carFixMgr.ui;
+using MaterialSkin.Controls;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -23,11 +25,6 @@ namespace carFixMgr
             Application.Exit();
         }
 
-        private void custfixAdd_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void custFixView_Click(object sender, EventArgs e)
         {
 
@@ -46,6 +43,11 @@ namespace carFixMgr
         private void custFixInfo_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void custfixAdd_Click_1(object sender, EventArgs e)
+        {
+            new ReceiptForm().ShowDialog();
         }
     }
 }
